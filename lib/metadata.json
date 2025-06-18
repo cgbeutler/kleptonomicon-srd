@@ -1,6 +1,6 @@
 {
   "vaultName": "Kleptonomicon",
-  "lastExport": 1749850244130,
+  "lastExport": 1750226079111,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -167,13 +167,13 @@
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Mold Thoughts.md",
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Mold Voids.md",
     "SRD/Appendix/Abilities/Spell Abilities/Animation.md",
-    "SRD/Appendix/Abilities/Spell Abilities/Arcane Tutilage.md",
-    "SRD/Appendix/Abilities/Spell Abilities/Augment.md",
+    "SRD/Appendix/Abilities/Spell Abilities/Augmentation.md",
     "SRD/Appendix/Abilities/Spell Abilities/Augury.md",
     "SRD/Appendix/Abilities/Spell Abilities/Bend Air.md",
     "SRD/Appendix/Abilities/Spell Abilities/Bend Earth.md",
     "SRD/Appendix/Abilities/Spell Abilities/Bend Fire.md",
     "SRD/Appendix/Abilities/Spell Abilities/Bend Water.md",
+    "SRD/Appendix/Abilities/Spell Abilities/Bless.md",
     "SRD/Appendix/Abilities/Spell Abilities/Blur Coherency.md",
     "SRD/Appendix/Abilities/Spell Abilities/Blur Consistency.md",
     "SRD/Appendix/Abilities/Spell Abilities/Blur Sanity.md",
@@ -210,6 +210,7 @@
     "SRD/Appendix/Abilities/Spell Abilities/Rift.md",
     "SRD/Appendix/Abilities/Spell Abilities/See.md",
     "SRD/Appendix/Abilities/Spell Abilities/Silence.md",
+    "SRD/Appendix/Abilities/Spell Abilities/Tutelage.md",
     "SRD/Appendix/Abilities/Spell Abilities/Vigoration.md",
     "SRD/Appendix/Abilities/Spell Abilities/Ward.md",
     "SRD/Appendix/Abilities/Trait Abilities/_TODO_.md",
@@ -288,6 +289,7 @@
     "SRD/Appendix/Glossary/Closing Credits.md",
     "SRD/Appendix/Glossary/Component.md",
     "SRD/Appendix/Glossary/Concentration.md",
+    "SRD/Appendix/Glossary/Cone Shape.md",
     "SRD/Appendix/Glossary/Conjuring Skill.md",
     "SRD/Appendix/Glossary/Constitution.md",
     "SRD/Appendix/Glossary/Contest.md",
@@ -295,6 +297,8 @@
     "SRD/Appendix/Glossary/Covert Skill.md",
     "SRD/Appendix/Glossary/Creature.md",
     "SRD/Appendix/Glossary/Critical Roll.md",
+    "SRD/Appendix/Glossary/Cube Shape.md",
+    "SRD/Appendix/Glossary/Cylinder Shape.md",
     "SRD/Appendix/Glossary/Damage.md",
     "SRD/Appendix/Glossary/Damage Type.md",
     "SRD/Appendix/Glossary/Deception.md",
@@ -352,6 +356,8 @@
     "SRD/Appendix/Glossary/Language Family.md",
     "SRD/Appendix/Glossary/Language Skill.md",
     "SRD/Appendix/Glossary/Level.md",
+    "SRD/Appendix/Glossary/Line Shape.md",
+    "SRD/Appendix/Glossary/Lineage.md",
     "SRD/Appendix/Glossary/Luck Stat.md",
     "SRD/Appendix/Glossary/Mage Ability.md",
     "SRD/Appendix/Glossary/Mage Archetype.md",
@@ -400,6 +406,7 @@
     "SRD/Appendix/Glossary/Sensing Skill.md",
     "SRD/Appendix/Glossary/Setup Phase.md",
     "SRD/Appendix/Glossary/Shape.md",
+    "SRD/Appendix/Glossary/Shape Origin.md",
     "SRD/Appendix/Glossary/Shield.md",
     "SRD/Appendix/Glossary/Sincerity Stat.md",
     "SRD/Appendix/Glossary/Size.md",
@@ -412,16 +419,19 @@
     "SRD/Appendix/Glossary/Social Skill.md",
     "SRD/Appendix/Glossary/Social Stat.md",
     "SRD/Appendix/Glossary/Spell Ability.md",
+    "SRD/Appendix/Glossary/Sphere Shape.md",
     "SRD/Appendix/Glossary/Stack.md",
     "SRD/Appendix/Glossary/Stat.md",
     "SRD/Appendix/Glossary/Status Condition.md",
     "SRD/Appendix/Glossary/Straining.md",
+    "SRD/Appendix/Glossary/Subclass.md",
     "SRD/Appendix/Glossary/Tabletop Roleplaying Game.md",
     "SRD/Appendix/Glossary/Tertiary Archetype.md",
     "SRD/Appendix/Glossary/Test.md",
     "SRD/Appendix/Glossary/Theater of the Mind.md",
     "SRD/Appendix/Glossary/Tinkering Skill.md",
     "SRD/Appendix/Glossary/Trait Ability.md",
+    "SRD/Appendix/Glossary/True Shape.md",
     "SRD/Appendix/Glossary/Tuning Stat.md",
     "SRD/Appendix/Glossary/Turn.md",
     "SRD/Appendix/Glossary/Turn Order.md",
@@ -447,6 +457,7 @@
     "SRD/Appendix/Items/Obscure Items/Book.md",
     "SRD/Appendix/Items/Obscure Items/Cosmic Seed.md",
     "SRD/Appendix/Items/Obscure Items/Hag Stone.md",
+    "SRD/Appendix/Items/Obscure Items/Holy Water.md",
     "SRD/Appendix/Items/Obscure Items/Mana Potion.md",
     "SRD/Appendix/Items/Obscure Items/Resurrection Stone.md",
     "SRD/Appendix/Items/Obscure Items/Spell Scroll.md",
@@ -514,6 +525,7 @@
     "SRD/Appendix/Perk List.md",
     "SRD/Appendix/Senses.md",
     "SRD/Appendix/Zone List.md",
+    "SRD/Introduction/00 Attribution.md",
     "SRD/Introduction/01 Save Time Reading.md",
     "SRD/Introduction/02 Why Play Kleptonomicon.md",
     "SRD/Introduction/03 Guidelines of Fun.md",
@@ -543,26 +555,8 @@
     "SRD/Part 2 Character Sheet.md",
     "index.md",
     "lib/media/ref-falling.png",
-    "lib/media/klepto_p1_overview.pdf",
-    "lib/media/klepto_p2_abilities.pdf",
-    "lib/media/klepto_p3_builder.pdf",
-    "lib/media/p1-socialbox.png",
     "lib/media/p1-explorationbox.png",
-    "lib/media/p1-inventorybox.png",
-    "lib/media/p1-statusbox.png",
-    "lib/media/p1-conditionsbox.png",
-    "lib/media/p1-luckbox.png",
-    "lib/media/p2-meleedamagebox.png",
-    "lib/media/p2-rangeddamagebox.png",
-    "lib/media/p2-primarybox.png",
-    "lib/media/p2-secondarybox.png",
-    "lib/media/p2-tertiarybox.png",
     "lib/media/p1-name.png",
-    "lib/media/p3-experiencetracker.png",
-    "lib/media/p3-leveltracker.png",
-    "lib/media/p3-fightertracker.png",
-    "lib/media/p3-roguetracker.png",
-    "lib/media/p3-magetracker.png",
     "lib/media/p3-constitutionbox.png",
     "lib/media/p3-classbox.png",
     "lib/scripts/graph-wasm.wasm",
@@ -593,7 +587,25 @@
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/styles/snippets.css",
+    "lib/media/klepto_p1_overview.pdf",
+    "lib/media/klepto_p2_abilities.pdf",
+    "lib/media/klepto_p3_builder.pdf",
+    "lib/media/p1-socialbox.png",
+    "lib/media/p1-inventorybox.png",
+    "lib/media/p1-statusbox.png",
+    "lib/media/p1-conditionsbox.png",
+    "lib/media/p1-luckbox.png",
+    "lib/media/p2-meleedamagebox.png",
+    "lib/media/p2-rangeddamagebox.png",
+    "lib/media/p2-primarybox.png",
+    "lib/media/p2-secondarybox.png",
+    "lib/media/p2-tertiarybox.png",
+    "lib/media/p3-experiencetracker.png",
+    "lib/media/p3-leveltracker.png",
+    "lib/media/p3-fightertracker.png",
+    "lib/media/p3-roguetracker.png",
+    "lib/media/p3-magetracker.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -1000,8 +1012,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Elusive.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 682,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 680,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/elusive.html",
       "dependencies": []
     },
@@ -1078,8 +1090,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 1678,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 1664,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities.html",
       "dependencies": []
     },
@@ -1180,8 +1192,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Barbarian/_index_.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 3723,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 3711,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/barbarian/_index_.html",
       "dependencies": []
     },
@@ -1192,20 +1204,20 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Druid Ability List/_index_.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 9652,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 9590,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/druid-ability-list/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Sorcerer Ability List/_index_.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 2956,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 2952,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/sorcerer-ability-list/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Warlock Ability List/_index_.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 2114,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 2102,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/warlock-ability-list/_index_.html",
       "dependencies": []
     },
@@ -1408,8 +1420,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Brawler Abilities.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 8354,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 8342,
       "exportedPath": "srd/appendix/abilities/class-abilities/brawler-abilities.html",
       "dependencies": []
     },
@@ -1420,8 +1432,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 2930,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 2926,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities.html",
       "dependencies": []
     },
@@ -1593,18 +1605,6 @@
       "exportedPath": "srd/appendix/abilities/spell-abilities/animation.html",
       "dependencies": []
     },
-    "SRD/Appendix/Abilities/Spell Abilities/Arcane Tutilage.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 2143,
-      "exportedPath": "srd/appendix/abilities/spell-abilities/arcane-tutilage.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Abilities/Spell Abilities/Augment.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 3112,
-      "exportedPath": "srd/appendix/abilities/spell-abilities/augment.html",
-      "dependencies": []
-    },
     "SRD/Appendix/Abilities/Spell Abilities/Augury.md": {
       "modifiedTime": 1749850244130,
       "sourceSize": 1350,
@@ -1768,8 +1768,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Illusion.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 7841,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 7840,
       "exportedPath": "srd/appendix/abilities/spell-abilities/illusion.html",
       "dependencies": []
     },
@@ -1846,8 +1846,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Silence.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 492,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 491,
       "exportedPath": "srd/appendix/abilities/spell-abilities/silence.html",
       "dependencies": []
     },
@@ -1864,8 +1864,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Trait Abilities/_TODO_.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 4447,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 4441,
       "exportedPath": "srd/appendix/abilities/trait-abilities/_todo_.html",
       "dependencies": []
     },
@@ -2110,8 +2110,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Constitutions/Mortal.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 1425,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 1420,
       "exportedPath": "srd/appendix/constitutions/mortal.html",
       "dependencies": []
     },
@@ -2272,8 +2272,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Ceremonial Name.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 443,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 427,
       "exportedPath": "srd/appendix/glossary/ceremonial-name.html",
       "dependencies": []
     },
@@ -2368,7 +2368,7 @@
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Damage Type.md": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 3547,
       "exportedPath": "srd/appendix/glossary/damage-type.html",
       "dependencies": []
@@ -2986,8 +2986,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Shape.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 470,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 509,
       "exportedPath": "srd/appendix/glossary/shape.html",
       "dependencies": []
     },
@@ -3250,8 +3250,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Items/Grey Items/Poison.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 2490,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 2520,
       "exportedPath": "srd/appendix/items/grey-items/poison.html",
       "dependencies": []
     },
@@ -3268,8 +3268,8 @@
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items/Hag Stone.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 446,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 444,
       "exportedPath": "srd/appendix/items/obscure-items/hag-stone.html",
       "dependencies": []
     },
@@ -3700,8 +3700,8 @@
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/02 Dice Mechanics.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 15222,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 15590,
       "exportedPath": "srd/part-1-core-mechanics/02-dice-mechanics.html",
       "dependencies": []
     },
@@ -3712,20 +3712,20 @@
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/04 Phases of Play.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 23849,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 23847,
       "exportedPath": "srd/part-1-core-mechanics/04-phases-of-play.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/05 Abilities.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 27743,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 30929,
       "exportedPath": "srd/part-1-core-mechanics/05-abilities.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/06 Covert Operations.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 19470,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 19466,
       "exportedPath": "srd/part-1-core-mechanics/06-covert-operations.html",
       "dependencies": []
     },
@@ -3736,7 +3736,7 @@
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/08 Damage.md": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 9249,
       "exportedPath": "srd/part-1-core-mechanics/08-damage.html",
       "dependencies": [
@@ -3768,8 +3768,8 @@
       ]
     },
     "SRD/Part 2 Character Sheet/02 Exploration Box.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 15268,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 15284,
       "exportedPath": "srd/part-2-character-sheet/02-exploration-box.html",
       "dependencies": [
         "lib/media/p1-explorationbox.png"
@@ -3820,8 +3820,8 @@
       ]
     },
     "SRD/Part 2 Character Sheet/07 Name Box.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 1050,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 1049,
       "exportedPath": "srd/part-2-character-sheet/07-name-box.html",
       "dependencies": [
         "lib/media/p1-name.png"
@@ -3840,8 +3840,8 @@
       ]
     },
     "SRD/Part 2 Character Sheet/09 Constitution and Class Boxes.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 2324,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 2840,
       "exportedPath": "srd/part-2-character-sheet/09-constitution-and-class-boxes.html",
       "dependencies": [
         "lib/media/p3-constitutionbox.png",
@@ -3849,8 +3849,8 @@
       ]
     },
     "SRD/Appendix.md": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 1047,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 1010,
       "exportedPath": "srd/appendix.html",
       "dependencies": []
     },
@@ -3879,7 +3879,7 @@
       "dependencies": []
     },
     "lib/media/ref-falling.png": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 98498,
       "exportedPath": "lib/media/ref-falling.png",
       "dependencies": []
@@ -3909,7 +3909,7 @@
       "dependencies": []
     },
     "lib/media/p1-explorationbox.png": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 97738,
       "exportedPath": "lib/media/p1-explorationbox.png",
       "dependencies": []
@@ -3969,7 +3969,7 @@
       "dependencies": []
     },
     "lib/media/p1-name.png": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 9860,
       "exportedPath": "lib/media/p1-name.png",
       "dependencies": []
@@ -4005,189 +4005,273 @@
       "dependencies": []
     },
     "lib/media/p3-constitutionbox.png": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 20754,
       "exportedPath": "lib/media/p3-constitutionbox.png",
       "dependencies": []
     },
     "lib/media/p3-classbox.png": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 18570,
       "exportedPath": "lib/media/p3-classbox.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 492528,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 499052,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1749850244130,
-      "sourceSize": 67278,
+      "modifiedTime": 1750226079111,
+      "sourceSize": 68828,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 388,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1749850244130,
+      "modifiedTime": 1750226079111,
       "sourceSize": 11718,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "SRD/Appendix/Abilities/Spell Abilities/Augmentation.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 3112,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/augmentation.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Abilities/Spell Abilities/Bless.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 1737,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/bless.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Abilities/Spell Abilities/Tutelage.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 2143,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/tutelage.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Cone Shape.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 383,
+      "exportedPath": "srd/appendix/glossary/cone-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Cube Shape.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 388,
+      "exportedPath": "srd/appendix/glossary/cube-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Cylinder Shape.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 607,
+      "exportedPath": "srd/appendix/glossary/cylinder-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Line Shape.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 255,
+      "exportedPath": "srd/appendix/glossary/line-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Lineage.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 304,
+      "exportedPath": "srd/appendix/glossary/lineage.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Shape Origin.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 387,
+      "exportedPath": "srd/appendix/glossary/shape-origin.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Sphere Shape.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 289,
+      "exportedPath": "srd/appendix/glossary/sphere-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Subclass.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 332,
+      "exportedPath": "srd/appendix/glossary/subclass.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/True Shape.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 179,
+      "exportedPath": "srd/appendix/glossary/true-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Items/Obscure Items/Holy Water.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 1506,
+      "exportedPath": "srd/appendix/items/obscure-items/holy-water.html",
+      "dependencies": []
+    },
+    "SRD/Introduction/00 Attribution.md": {
+      "modifiedTime": 1750226079111,
+      "sourceSize": 353,
+      "exportedPath": "srd/introduction/00-attribution.html",
       "dependencies": []
     }
   }
