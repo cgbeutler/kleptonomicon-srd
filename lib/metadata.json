@@ -1,6 +1,6 @@
 {
   "vaultName": "Kleptonomicon",
-  "lastExport": 1750311985236,
+  "lastExport": 1750391904238,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -564,6 +564,7 @@
     "SRD/Part 1 Core Mechanics.md",
     "SRD/Part 2 Character Sheet.md",
     "index.md",
+    "style.css",
     "lib/media/ref-falling.png",
     "lib/media/klepto_p1_overview.pdf",
     "lib/media/klepto_p2_abilities.pdf",
@@ -638,3085 +639,3247 @@
   ],
   "fileInfo": {
     "_img/char_sheet/Klepto_P1_Overview.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 128064,
       "exportedPath": "_img/char_sheet/klepto_p1_overview.pdf",
       "dependencies": []
     },
     "_img/char_sheet/Klepto_P2_Abilities.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 33287,
       "exportedPath": "_img/char_sheet/klepto_p2_abilities.pdf",
       "dependencies": []
     },
     "_img/char_sheet/Klepto_P3_Builder.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 73818,
       "exportedPath": "_img/char_sheet/klepto_p3_builder.pdf",
       "dependencies": []
     },
     "_img/char_sheet/Klepto_P4_Item Shop.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 61548,
       "exportedPath": "_img/char_sheet/klepto_p4_item-shop.pdf",
       "dependencies": []
     },
     "_img/char_sheet/Klepto_P4_Player_Reference.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 127551,
       "exportedPath": "_img/char_sheet/klepto_p4_player_reference.pdf",
       "dependencies": []
     },
     "_img/char_sheet/P1 ConditionsBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 399026,
       "exportedPath": "_img/char_sheet/p1-conditionsbox.png",
       "dependencies": []
     },
     "_img/char_sheet/P1 ExplorationBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 97738,
       "exportedPath": "_img/char_sheet/p1-explorationbox.png",
       "dependencies": []
     },
     "_img/char_sheet/P1 InventoryBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 57826,
       "exportedPath": "_img/char_sheet/p1-inventorybox.png",
       "dependencies": []
     },
     "_img/char_sheet/P1 LuckBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 37474,
       "exportedPath": "_img/char_sheet/p1-luckbox.png",
       "dependencies": []
     },
     "_img/char_sheet/P1 Name.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 9860,
       "exportedPath": "_img/char_sheet/p1-name.png",
       "dependencies": []
     },
     "_img/char_sheet/P1 SocialBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 52994,
       "exportedPath": "_img/char_sheet/p1-socialbox.png",
       "dependencies": []
     },
     "_img/char_sheet/P1 StatusBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 68880,
       "exportedPath": "_img/char_sheet/p1-statusbox.png",
       "dependencies": []
     },
     "_img/char_sheet/P2 MeleeDamageBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 11648,
       "exportedPath": "_img/char_sheet/p2-meleedamagebox.png",
       "dependencies": []
     },
     "_img/char_sheet/P2 PrimaryBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 16253,
       "exportedPath": "_img/char_sheet/p2-primarybox.png",
       "dependencies": []
     },
     "_img/char_sheet/P2 RangedDamageBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 14828,
       "exportedPath": "_img/char_sheet/p2-rangeddamagebox.png",
       "dependencies": []
     },
     "_img/char_sheet/P2 SecondaryBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 18745,
       "exportedPath": "_img/char_sheet/p2-secondarybox.png",
       "dependencies": []
     },
     "_img/char_sheet/P2 TertiaryBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 15051,
       "exportedPath": "_img/char_sheet/p2-tertiarybox.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 ClassBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 18570,
       "exportedPath": "_img/char_sheet/p3-classbox.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 ConstitutionBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 20754,
       "exportedPath": "_img/char_sheet/p3-constitutionbox.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 ExperienceTracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 26138,
       "exportedPath": "_img/char_sheet/p3-experiencetracker.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 FighterTracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 99779,
       "exportedPath": "_img/char_sheet/p3-fightertracker.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 LevelTracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 220714,
       "exportedPath": "_img/char_sheet/p3-leveltracker.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 MageTracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 118114,
       "exportedPath": "_img/char_sheet/p3-magetracker.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 RogueTracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 114629,
       "exportedPath": "_img/char_sheet/p3-roguetracker.png",
       "dependencies": []
     },
     "_img/char_sheet/P3 TrackersBox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 591567,
       "exportedPath": "_img/char_sheet/p3-trackersbox.png",
       "dependencies": []
     },
     "_img/char_sheet/Ref Falling.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 98498,
       "exportedPath": "_img/char_sheet/ref-falling.png",
       "dependencies": []
     },
     "_img/icons/klepto-icons/Action.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1107,
       "exportedPath": "_img/icons/klepto-icons/action.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons/Episodic.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1386,
       "exportedPath": "_img/icons/klepto-icons/episodic.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons/FreeAction.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 625,
       "exportedPath": "_img/icons/klepto-icons/freeaction.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons/FreeReaction.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 983,
       "exportedPath": "_img/icons/klepto-icons/freereaction.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons/LongAction.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1136,
       "exportedPath": "_img/icons/klepto-icons/longaction.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons/Passive.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1384,
       "exportedPath": "_img/icons/klepto-icons/passive.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons/Reaction.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1439,
       "exportedPath": "_img/icons/klepto-icons/reaction.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons/SlowAction.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1700,
       "exportedPath": "_img/icons/klepto-icons/slowaction.svg",
       "dependencies": []
     },
     "_img/icons/klepto-icons.zip": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 8602,
       "exportedPath": "_img/icons/klepto-icons.zip",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Armored.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1501,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/armored.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Athlete.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 199,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/athlete.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Charge.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 887,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/charge.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Destabilize.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 359,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/destabilize.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Dual Wield.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 450,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/dual-wield.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Flank.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 393,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/flank.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Heavy Hitter.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 315,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/heavy-hitter.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Martial Arts.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 426,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/martial-arts.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Multi-Attack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 475,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/multi-attack.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Protect.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1106,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/protect.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Reckless Attack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 412,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/reckless-attack.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities/Shield Bearer.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 981,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities/shield-bearer.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Affect Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 532,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/affect-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Careful Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 553,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/careful-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Concentrated Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 572,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/concentrated-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Concurrent Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 708,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/concurrent-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Deadly Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 833,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/deadly-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Distant Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 487,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/distant-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Extend Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 516,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/extend-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Favored Flavor.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 454,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/favored-flavor.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Forceful Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 525,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/forceful-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Opportunity Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 748,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/opportunity-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Quick Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 474,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/quick-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Subtle Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 499,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/subtle-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities/Twin Cast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 589,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities/twin-cast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Anticipation.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 809,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/anticipation.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Climber.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 191,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/climber.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Elusive.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 675,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/elusive.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Observant.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 335,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/observant.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Play Dead.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 635,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/play-dead.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Positioning.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 530,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/positioning.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Rapid Shot.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 448,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/rapid-shot.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Sharpshooter.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 468,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/sharpshooter.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Stroke of Luck.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 339,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/stroke-of-luck.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Supreme Sneak.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 264,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/supreme-sneak.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Take Aim.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 267,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/take-aim.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Trip.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 348,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/trip.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities/Vital Shot.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 400,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities/vital-shot.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Fighter Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1595,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/fighter-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Mage Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 145,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/mage-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities/Rogue Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1664,
       "exportedPath": "srd/appendix/abilities/archetype-abilities/rogue-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Dash.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 866,
       "exportedPath": "srd/appendix/abilities/basic-abilities/dash.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Dodge.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1042,
       "exportedPath": "srd/appendix/abilities/basic-abilities/dodge.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Grapple.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1847,
       "exportedPath": "srd/appendix/abilities/basic-abilities/grapple.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Investigate.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2336,
       "exportedPath": "srd/appendix/abilities/basic-abilities/investigate.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Item Search.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2883,
       "exportedPath": "srd/appendix/abilities/basic-abilities/item-search.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Item Sell.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 905,
       "exportedPath": "srd/appendix/abilities/basic-abilities/item-sell.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Item Trade.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 631,
       "exportedPath": "srd/appendix/abilities/basic-abilities/item-trade.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Melee Attack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1933,
       "exportedPath": "srd/appendix/abilities/basic-abilities/melee-attack.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Opportunity Attack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 792,
       "exportedPath": "srd/appendix/abilities/basic-abilities/opportunity-attack.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Ranged Attack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2307,
       "exportedPath": "srd/appendix/abilities/basic-abilities/ranged-attack.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Rest.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1395,
       "exportedPath": "srd/appendix/abilities/basic-abilities/rest.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Sneak.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1196,
       "exportedPath": "srd/appendix/abilities/basic-abilities/sneak.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Sneak Attack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1232,
       "exportedPath": "srd/appendix/abilities/basic-abilities/sneak-attack.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Sneak Dash.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 651,
       "exportedPath": "srd/appendix/abilities/basic-abilities/sneak-dash.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Sneak Evade.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 495,
       "exportedPath": "srd/appendix/abilities/basic-abilities/sneak-evade.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities/Take Cover.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 248,
       "exportedPath": "srd/appendix/abilities/basic-abilities/take-cover.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Barbarian/_index_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 3711,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/barbarian/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Barbarian/Rage.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1363,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/barbarian/rage.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Druid Ability List/_index_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 9590,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/druid-ability-list/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Sorcerer Ability List/_index_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2952,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/sorcerer-ability-list/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Warlock Ability List/_index_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2102,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/warlock-ability-list/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Witch/_index_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 504,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/witch/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Witch/Trouble.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1222,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/witch/trouble.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Wizard/_index_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 464,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/wizard/_index_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Wizard/Arcane Research.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1186,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/wizard/arcane-research.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Wizard/Cryptoarcanology.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 560,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/wizard/cryptoarcanology.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Wizard/Divination Expert.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1006,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/wizard/divination-expert.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/_TODO_/Wizard/Reshape.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1761,
       "exportedPath": "srd/appendix/abilities/class-abilities/_todo_/wizard/reshape.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Bard Abilities/Countercharm.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 417,
       "exportedPath": "srd/appendix/abilities/class-abilities/bard-abilities/countercharm.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Bard Abilities/Dejection.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 821,
       "exportedPath": "srd/appendix/abilities/class-abilities/bard-abilities/dejection.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Bard Abilities/Inspiration.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 934,
       "exportedPath": "srd/appendix/abilities/class-abilities/bard-abilities/inspiration.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Bard Abilities/Song of Rest.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 526,
       "exportedPath": "srd/appendix/abilities/class-abilities/bard-abilities/song-of-rest.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Brawler Abilities/Cat Fall.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 154,
       "exportedPath": "srd/appendix/abilities/class-abilities/brawler-abilities/cat-fall.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Brawler Abilities/Deflect Missile.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 695,
       "exportedPath": "srd/appendix/abilities/class-abilities/brawler-abilities/deflect-missile.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Brawler Abilities/Exploitation.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4281,
       "exportedPath": "srd/appendix/abilities/class-abilities/brawler-abilities/exploitation.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Brawler Abilities/Spirited Strikes.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 422,
       "exportedPath": "srd/appendix/abilities/class-abilities/brawler-abilities/spirited-strikes.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Brawler Abilities/Still Mind.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 234,
       "exportedPath": "srd/appendix/abilities/class-abilities/brawler-abilities/still-mind.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Cleanse.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1077,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/cleanse.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Divine Aura.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1244,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/divine-aura.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Divine Intervention.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1009,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/divine-intervention.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Divine Sense.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1278,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/divine-sense.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Heal.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 846,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/heal.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Preserve Life.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1026,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/preserve-life.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Protective Aura.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 640,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/protective-aura.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Sanctuary.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1051,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/sanctuary.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Smite.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1424,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/smite.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities/Turn Undead.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1027,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities/turn-undead.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities/Brutality.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 240,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities/brutality.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities/Punishment.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 714,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities/punishment.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities/Shake It Off.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 435,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities/shake-it-off.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities/Shrug.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 401,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities/shrug.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities/Survivor.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 422,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities/survivor.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities/Training.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 244,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities/training.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Bard Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 477,
       "exportedPath": "srd/appendix/abilities/class-abilities/bard-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Brawler Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 8342,
       "exportedPath": "srd/appendix/abilities/class-abilities/brawler-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Cleric Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 424,
       "exportedPath": "srd/appendix/abilities/class-abilities/cleric-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities/Warrior Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2926,
       "exportedPath": "srd/appendix/abilities/class-abilities/warrior-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_OLD_/Appendix - Social Features.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2119,
       "exportedPath": "srd/appendix/abilities/social-abilities/_old_/appendix-social-features.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_OLD_/Extrovert.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 512,
       "exportedPath": "srd/appendix/abilities/social-abilities/_old_/extrovert.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_OLD_/Introvert.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 477,
       "exportedPath": "srd/appendix/abilities/social-abilities/_old_/introvert.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_OLD_/Juror.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 645,
       "exportedPath": "srd/appendix/abilities/social-abilities/_old_/juror.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_OLD_/Lawyer.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 875,
       "exportedPath": "srd/appendix/abilities/social-abilities/_old_/lawyer.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_OLD_/Parlay.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 751,
       "exportedPath": "srd/appendix/abilities/social-abilities/_old_/parlay.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_OLD_/Tap-In.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 794,
       "exportedPath": "srd/appendix/abilities/social-abilities/_old_/tap-in.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_TODO_/Agent.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 129,
       "exportedPath": "srd/appendix/abilities/social-abilities/_todo_/agent.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_TODO_/Devotee.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 35,
       "exportedPath": "srd/appendix/abilities/social-abilities/_todo_/devotee.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_TODO_/Sage.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 0,
       "exportedPath": "srd/appendix/abilities/social-abilities/_todo_/sage.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/_TODO_/Teacher.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 0,
       "exportedPath": "srd/appendix/abilities/social-abilities/_todo_/teacher.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Bore.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1305,
       "exportedPath": "srd/appendix/abilities/social-abilities/bore.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Celebrity.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1667,
       "exportedPath": "srd/appendix/abilities/social-abilities/celebrity.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Detective.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2627,
       "exportedPath": "srd/appendix/abilities/social-abilities/detective.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Karen.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1619,
       "exportedPath": "srd/appendix/abilities/social-abilities/karen.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Mundane.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1729,
       "exportedPath": "srd/appendix/abilities/social-abilities/mundane.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Protégé.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 5561,
       "exportedPath": "srd/appendix/abilities/social-abilities/protégé.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Recluse.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1254,
       "exportedPath": "srd/appendix/abilities/social-abilities/recluse.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities/Thief.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2706,
       "exportedPath": "srd/appendix/abilities/social-abilities/thief.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Ethereal Blast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1904,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/ethereal-blast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Ethereal Veil.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2161,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/ethereal-veil.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Ethereal Wall.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 70,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/ethereal-wall.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Ethereal Weapon.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1685,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/ethereal-weapon.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Mold Attractions.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 84,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/mold-attractions.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Mold Lifeforce.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 59,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/mold-lifeforce.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Mold Thoughts.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 56,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/mold-thoughts.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/_TODO_/Mold Voids.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 59,
       "exportedPath": "srd/appendix/abilities/spell-abilities/_todo_/mold-voids.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Animation.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 5172,
       "exportedPath": "srd/appendix/abilities/spell-abilities/animation.html",
       "dependencies": []
     },
+    "SRD/Appendix/Abilities/Spell Abilities/Augmentation.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 3089,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/augmentation.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Abilities/Spell Abilities/Augury.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1316,
       "exportedPath": "srd/appendix/abilities/spell-abilities/augury.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Bend Air.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 3326,
       "exportedPath": "srd/appendix/abilities/spell-abilities/bend-air.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Bend Earth.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4539,
       "exportedPath": "srd/appendix/abilities/spell-abilities/bend-earth.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Bend Fire.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 3220,
       "exportedPath": "srd/appendix/abilities/spell-abilities/bend-fire.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Bend Water.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4733,
       "exportedPath": "srd/appendix/abilities/spell-abilities/bend-water.html",
       "dependencies": []
     },
+    "SRD/Appendix/Abilities/Spell Abilities/Bless.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 1720,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/bless.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Abilities/Spell Abilities/Blur Coherency.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1027,
       "exportedPath": "srd/appendix/abilities/spell-abilities/blur-coherency.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Blur Consistency.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 907,
       "exportedPath": "srd/appendix/abilities/spell-abilities/blur-consistency.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Blur Sanity.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1266,
       "exportedPath": "srd/appendix/abilities/spell-abilities/blur-sanity.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Chronographic Echo.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 823,
       "exportedPath": "srd/appendix/abilities/spell-abilities/chronographic-echo.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Detect Displacement.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1409,
       "exportedPath": "srd/appendix/abilities/spell-abilities/detect-displacement.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Elemental Blast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4610,
       "exportedPath": "srd/appendix/abilities/spell-abilities/elemental-blast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Elemental Shield.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2715,
       "exportedPath": "srd/appendix/abilities/spell-abilities/elemental-shield.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Elemental Wall.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 331,
       "exportedPath": "srd/appendix/abilities/spell-abilities/elemental-wall.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Elemental Weapon.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4750,
       "exportedPath": "srd/appendix/abilities/spell-abilities/elemental-weapon.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Enlarge.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1609,
       "exportedPath": "srd/appendix/abilities/spell-abilities/enlarge.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Feather.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1351,
       "exportedPath": "srd/appendix/abilities/spell-abilities/feather.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Find Familiar.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4680,
       "exportedPath": "srd/appendix/abilities/spell-abilities/find-familiar.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Gaze.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1190,
       "exportedPath": "srd/appendix/abilities/spell-abilities/gaze.html",
       "dependencies": []
     },
+    "SRD/Appendix/Abilities/Spell Abilities/Glyphic Console.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 1319,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/glyphic-console.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Abilities/Spell Abilities/Glyphic Lock.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2631,
       "exportedPath": "srd/appendix/abilities/spell-abilities/glyphic-lock.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Glyphic Mouth.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1624,
       "exportedPath": "srd/appendix/abilities/spell-abilities/glyphic-mouth.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Glyphic Strand.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2294,
       "exportedPath": "srd/appendix/abilities/spell-abilities/glyphic-strand.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Glyphic Wand.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 5397,
       "exportedPath": "srd/appendix/abilities/spell-abilities/glyphic-wand.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Glyphic Watchman.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2324,
       "exportedPath": "srd/appendix/abilities/spell-abilities/glyphic-watchman.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Guiding Wind.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1920,
       "exportedPath": "srd/appendix/abilities/spell-abilities/guiding-wind.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Hex.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1365,
       "exportedPath": "srd/appendix/abilities/spell-abilities/hex.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Hold Monster.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 319,
       "exportedPath": "srd/appendix/abilities/spell-abilities/hold-monster.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Illusion.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 7789,
       "exportedPath": "srd/appendix/abilities/spell-abilities/illusion.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Invisibility.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1004,
       "exportedPath": "srd/appendix/abilities/spell-abilities/invisibility.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Knock.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 575,
       "exportedPath": "srd/appendix/abilities/spell-abilities/knock.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Lifeline.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 942,
       "exportedPath": "srd/appendix/abilities/spell-abilities/lifeline.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Light.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 9021,
       "exportedPath": "srd/appendix/abilities/spell-abilities/light.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Muffle.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 456,
       "exportedPath": "srd/appendix/abilities/spell-abilities/muffle.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Planar Blast.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1483,
       "exportedPath": "srd/appendix/abilities/spell-abilities/planar-blast.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Reading.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1511,
       "exportedPath": "srd/appendix/abilities/spell-abilities/reading.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Reduce.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1509,
       "exportedPath": "srd/appendix/abilities/spell-abilities/reduce.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Resurrect.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 738,
       "exportedPath": "srd/appendix/abilities/spell-abilities/resurrect.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Rewind.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1291,
       "exportedPath": "srd/appendix/abilities/spell-abilities/rewind.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Rift.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4443,
       "exportedPath": "srd/appendix/abilities/spell-abilities/rift.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/See.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 633,
       "exportedPath": "srd/appendix/abilities/spell-abilities/see.html",
       "dependencies": []
     },
+    "SRD/Appendix/Abilities/Spell Abilities/Sending.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 1754,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/sending.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Abilities/Spell Abilities/Silence.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 491,
       "exportedPath": "srd/appendix/abilities/spell-abilities/silence.html",
       "dependencies": []
     },
+    "SRD/Appendix/Abilities/Spell Abilities/Tutelage.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 2105,
+      "exportedPath": "srd/appendix/abilities/spell-abilities/tutelage.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Abilities/Spell Abilities/Vigoration.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1211,
       "exportedPath": "srd/appendix/abilities/spell-abilities/vigoration.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities/Ward.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1248,
       "exportedPath": "srd/appendix/abilities/spell-abilities/ward.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Trait Abilities/_TODO_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 3955,
       "exportedPath": "srd/appendix/abilities/trait-abilities/_todo_.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Trait Abilities/Lucky Break.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 245,
       "exportedPath": "srd/appendix/abilities/trait-abilities/lucky-break.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Archetype Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 67,
       "exportedPath": "srd/appendix/abilities/archetype-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Basic Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 146,
       "exportedPath": "srd/appendix/abilities/basic-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Class Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 139,
       "exportedPath": "srd/appendix/abilities/class-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Social Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 204,
       "exportedPath": "srd/appendix/abilities/social-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Spell Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 3650,
       "exportedPath": "srd/appendix/abilities/spell-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities/Trait Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 146,
       "exportedPath": "srd/appendix/abilities/trait-abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Blinded.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 194,
       "exportedPath": "srd/appendix/conditions/blinded.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Bloodied.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 197,
       "exportedPath": "srd/appendix/conditions/bloodied.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Blunted.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 192,
       "exportedPath": "srd/appendix/conditions/blunted.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Charmed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 436,
       "exportedPath": "srd/appendix/conditions/charmed.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Choked.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 960,
       "exportedPath": "srd/appendix/conditions/choked.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Concentrating.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 719,
       "exportedPath": "srd/appendix/conditions/concentrating.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Condition List.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 0,
       "exportedPath": "srd/appendix/conditions/condition-list.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Dazed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 198,
       "exportedPath": "srd/appendix/conditions/dazed.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Dead.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 5,
       "exportedPath": "srd/appendix/conditions/dead.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Deafened.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 397,
       "exportedPath": "srd/appendix/conditions/deafened.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Exhausted.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 454,
       "exportedPath": "srd/appendix/conditions/exhausted.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Frightened.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 433,
       "exportedPath": "srd/appendix/conditions/frightened.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Grappling.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 493,
       "exportedPath": "srd/appendix/conditions/grappling.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Held.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 499,
       "exportedPath": "srd/appendix/conditions/held.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Incohered.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 505,
       "exportedPath": "srd/appendix/conditions/incohered.html",
       "dependencies": []
     },
+    "SRD/Appendix/Conditions/Invisible.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 337,
+      "exportedPath": "srd/appendix/conditions/invisible.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Conditions/Mounted.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 642,
       "exportedPath": "srd/appendix/conditions/mounted.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Paralyzed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4,
       "exportedPath": "srd/appendix/conditions/paralyzed.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Polyformed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 878,
       "exportedPath": "srd/appendix/conditions/polyformed.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Restrained.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 273,
       "exportedPath": "srd/appendix/conditions/restrained.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Sharpened.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 152,
       "exportedPath": "srd/appendix/conditions/sharpened.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Silenced.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 287,
       "exportedPath": "srd/appendix/conditions/silenced.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Sleeping.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4,
       "exportedPath": "srd/appendix/conditions/sleeping.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Slowed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 274,
       "exportedPath": "srd/appendix/conditions/slowed.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Strained.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 415,
       "exportedPath": "srd/appendix/conditions/strained.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Stunned.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 390,
       "exportedPath": "srd/appendix/conditions/stunned.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Surprised.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 103,
       "exportedPath": "srd/appendix/conditions/surprised.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Susceptible.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 149,
       "exportedPath": "srd/appendix/conditions/susceptible.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Turned.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 517,
       "exportedPath": "srd/appendix/conditions/turned.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Unarmed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 112,
       "exportedPath": "srd/appendix/conditions/unarmed.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Unconscious.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 81,
       "exportedPath": "srd/appendix/conditions/unconscious.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Untethered.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 282,
       "exportedPath": "srd/appendix/conditions/untethered.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions/Vulnerable.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 242,
       "exportedPath": "srd/appendix/conditions/vulnerable.html",
       "dependencies": []
     },
     "SRD/Appendix/Constitutions/_TODO_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4669,
       "exportedPath": "srd/appendix/constitutions/_todo_.html",
       "dependencies": []
     },
     "SRD/Appendix/Constitutions/Mortal.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1420,
       "exportedPath": "srd/appendix/constitutions/mortal.html",
       "dependencies": []
     },
     "SRD/Appendix/Constitutions/Non-mortal.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 528,
       "exportedPath": "srd/appendix/constitutions/non-mortal.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/_TODO_.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1829,
       "exportedPath": "srd/appendix/creatures/_todo_.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Bat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 748,
       "exportedPath": "srd/appendix/creatures/bat.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Bird.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1043,
       "exportedPath": "srd/appendix/creatures/bird.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Cat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 477,
       "exportedPath": "srd/appendix/creatures/cat.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Commoner.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 545,
       "exportedPath": "srd/appendix/creatures/commoner.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Familiar.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1570,
       "exportedPath": "srd/appendix/creatures/familiar.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Ghost.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 748,
       "exportedPath": "srd/appendix/creatures/ghost.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Rat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 711,
       "exportedPath": "srd/appendix/creatures/rat.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures/Toad.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 399,
       "exportedPath": "srd/appendix/creatures/toad.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Ability.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 339,
       "exportedPath": "srd/appendix/glossary/ability.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Ability Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 382,
       "exportedPath": "srd/appendix/glossary/ability-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Ability Time.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 219,
       "exportedPath": "srd/appendix/glossary/ability-time.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Acting Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 390,
       "exportedPath": "srd/appendix/glossary/acting-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Action.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 439,
       "exportedPath": "srd/appendix/glossary/action.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Advantage.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1153,
       "exportedPath": "srd/appendix/glossary/advantage.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Alert.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 54,
       "exportedPath": "srd/appendix/glossary/alert.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Analysis Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 28,
       "exportedPath": "srd/appendix/glossary/analysis-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Archetype.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 616,
       "exportedPath": "srd/appendix/glossary/archetype.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Archetype Stat.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 37,
+      "exportedPath": "srd/appendix/glossary/archetype-stat.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Artifice Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 28,
       "exportedPath": "srd/appendix/glossary/artifice-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Athletics Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 852,
       "exportedPath": "srd/appendix/glossary/athletics-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Attack Test.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 587,
       "exportedPath": "srd/appendix/glossary/attack-test.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Basic Attack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 186,
       "exportedPath": "srd/appendix/glossary/basic-attack.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Beat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 386,
       "exportedPath": "srd/appendix/glossary/beat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Bonus.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 272,
       "exportedPath": "srd/appendix/glossary/bonus.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Ceremonial Name.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 427,
       "exportedPath": "srd/appendix/glossary/ceremonial-name.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Character Sheet.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 443,
       "exportedPath": "srd/appendix/glossary/character-sheet.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Charm Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 267,
       "exportedPath": "srd/appendix/glossary/charm-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Class.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 58,
       "exportedPath": "srd/appendix/glossary/class.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Class Ability.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 299,
       "exportedPath": "srd/appendix/glossary/class-ability.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Closing Credits.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 932,
       "exportedPath": "srd/appendix/glossary/closing-credits.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Component.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2032,
       "exportedPath": "srd/appendix/glossary/component.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Concentration.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 744,
       "exportedPath": "srd/appendix/glossary/concentration.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Cone Shape.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 383,
+      "exportedPath": "srd/appendix/glossary/cone-shape.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Conjuring Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 639,
       "exportedPath": "srd/appendix/glossary/conjuring-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Constitution.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 39,
       "exportedPath": "srd/appendix/glossary/constitution.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Contest.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 596,
       "exportedPath": "srd/appendix/glossary/contest.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Core Fleeting Condition.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 590,
       "exportedPath": "srd/appendix/glossary/core-fleeting-condition.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Covert Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 308,
       "exportedPath": "srd/appendix/glossary/covert-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Creature.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 246,
       "exportedPath": "srd/appendix/glossary/creature.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Critical Roll.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2007,
       "exportedPath": "srd/appendix/glossary/critical-roll.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Cube Shape.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 388,
+      "exportedPath": "srd/appendix/glossary/cube-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Cylinder Shape.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 607,
+      "exportedPath": "srd/appendix/glossary/cylinder-shape.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Damage.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4,
       "exportedPath": "srd/appendix/glossary/damage.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Damage Type.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 3547,
       "exportedPath": "srd/appendix/glossary/damage-type.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Deception.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 436,
       "exportedPath": "srd/appendix/glossary/deception.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Defense.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 292,
       "exportedPath": "srd/appendix/glossary/defense.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Dice Shorthand.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 328,
       "exportedPath": "srd/appendix/glossary/dice-shorthand.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Diplomacy Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 328,
       "exportedPath": "srd/appendix/glossary/diplomacy-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Disadvantage.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1143,
       "exportedPath": "srd/appendix/glossary/disadvantage.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Distance.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2602,
       "exportedPath": "srd/appendix/glossary/distance.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Dodge Point.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 235,
       "exportedPath": "srd/appendix/glossary/dodge-point.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Effect Duration.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 213,
       "exportedPath": "srd/appendix/glossary/effect-duration.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Enchanting Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 609,
       "exportedPath": "srd/appendix/glossary/enchanting-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Encounter.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 241,
       "exportedPath": "srd/appendix/glossary/encounter.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/End Phase.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 139,
       "exportedPath": "srd/appendix/glossary/end-phase.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Episode.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 516,
       "exportedPath": "srd/appendix/glossary/episode.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Episodic.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 597,
       "exportedPath": "srd/appendix/glossary/episodic.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Exhausting.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 309,
       "exportedPath": "srd/appendix/glossary/exhausting.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Experience Point.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 545,
       "exportedPath": "srd/appendix/glossary/experience-point.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Expire.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 513,
       "exportedPath": "srd/appendix/glossary/expire.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Exploration Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 44,
       "exportedPath": "srd/appendix/glossary/exploration-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Exploration Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 871,
       "exportedPath": "srd/appendix/glossary/exploration-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Falling.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1724,
       "exportedPath": "srd/appendix/glossary/falling.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Favor.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 178,
       "exportedPath": "srd/appendix/glossary/favor.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Fighter Archetype.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 28,
       "exportedPath": "srd/appendix/glossary/fighter-archetype.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Fighter Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 28,
       "exportedPath": "srd/appendix/glossary/fighter-stat.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Fine Good.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 30,
+      "exportedPath": "srd/appendix/glossary/fine-good.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Fine Wealth Skill.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 0,
+      "exportedPath": "srd/appendix/glossary/fine-wealth-skill.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Flavor.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 388,
       "exportedPath": "srd/appendix/glossary/flavor.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Fleeting Condition.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 286,
       "exportedPath": "srd/appendix/glossary/fleeting-condition.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Free Action.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 288,
       "exportedPath": "srd/appendix/glossary/free-action.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Free Reaction.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 511,
       "exportedPath": "srd/appendix/glossary/free-reaction.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Freeplay.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 453,
       "exportedPath": "srd/appendix/glossary/freeplay.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Friendship Point.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 289,
       "exportedPath": "srd/appendix/glossary/friendship-point.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Game Master.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 584,
       "exportedPath": "srd/appendix/glossary/game-master.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/General Good.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 33,
+      "exportedPath": "srd/appendix/glossary/general-good.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/General Wealth Skill.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 0,
+      "exportedPath": "srd/appendix/glossary/general-wealth-skill.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Glyph.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 303,
       "exportedPath": "srd/appendix/glossary/glyph.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Glyph Ability.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 89,
       "exportedPath": "srd/appendix/glossary/glyph-ability.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Glyph Command.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 88,
       "exportedPath": "srd/appendix/glossary/glyph-command.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Glyph Network.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 494,
       "exportedPath": "srd/appendix/glossary/glyph-network.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Glyphic Ability.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 3483,
       "exportedPath": "srd/appendix/glossary/glyphic-ability.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Glyphic Spell.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 387,
       "exportedPath": "srd/appendix/glossary/glyphic-spell.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Good.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 31,
       "exportedPath": "srd/appendix/glossary/good.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Grey Good.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 30,
+      "exportedPath": "srd/appendix/glossary/grey-good.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Grey Wealth Skill.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 0,
+      "exportedPath": "srd/appendix/glossary/grey-wealth-skill.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Group Test.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 840,
       "exportedPath": "srd/appendix/glossary/group-test.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Health.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 678,
       "exportedPath": "srd/appendix/glossary/health.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Hiding Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 26,
       "exportedPath": "srd/appendix/glossary/hiding-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/History Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 506,
       "exportedPath": "srd/appendix/glossary/history-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Homebrew.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 395,
       "exportedPath": "srd/appendix/glossary/homebrew.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Immunity.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 648,
       "exportedPath": "srd/appendix/glossary/immunity.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Improvement.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 708,
       "exportedPath": "srd/appendix/glossary/improvement.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Improvised Movement.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 559,
       "exportedPath": "srd/appendix/glossary/improvised-movement.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Insight.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 901,
       "exportedPath": "srd/appendix/glossary/insight.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Intimidation Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 356,
       "exportedPath": "srd/appendix/glossary/intimidation-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Item.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1037,
       "exportedPath": "srd/appendix/glossary/item.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Item Grade.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 513,
       "exportedPath": "srd/appendix/glossary/item-grade.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Item Tag.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 195,
       "exportedPath": "srd/appendix/glossary/item-tag.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Kleptonomica.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 248,
       "exportedPath": "srd/appendix/glossary/kleptonomica.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Kleptonomicon.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 274,
       "exportedPath": "srd/appendix/glossary/kleptonomicon.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Knowledge Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 451,
       "exportedPath": "srd/appendix/glossary/knowledge-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Language Family.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 493,
       "exportedPath": "srd/appendix/glossary/language-family.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Language Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1212,
       "exportedPath": "srd/appendix/glossary/language-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Level.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 726,
       "exportedPath": "srd/appendix/glossary/level.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Line Shape.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 255,
+      "exportedPath": "srd/appendix/glossary/line-shape.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Lineage.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 304,
+      "exportedPath": "srd/appendix/glossary/lineage.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Luck Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 284,
       "exportedPath": "srd/appendix/glossary/luck-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Mage Archetype.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 25,
       "exportedPath": "srd/appendix/glossary/mage-archetype.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Mage Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 25,
       "exportedPath": "srd/appendix/glossary/mage-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Main Movement Range.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 289,
       "exportedPath": "srd/appendix/glossary/main-movement-range.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Mastery.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 513,
       "exportedPath": "srd/appendix/glossary/mastery.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Mechanical Language.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 620,
       "exportedPath": "srd/appendix/glossary/mechanical-language.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Might Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 30,
       "exportedPath": "srd/appendix/glossary/might-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Modifier.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 671,
       "exportedPath": "srd/appendix/glossary/modifier.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Movement.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 607,
       "exportedPath": "srd/appendix/glossary/movement.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Movement Range.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 737,
       "exportedPath": "srd/appendix/glossary/movement-range.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Noise.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 507,
       "exportedPath": "srd/appendix/glossary/noise.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Non-Player Character.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 167,
       "exportedPath": "srd/appendix/glossary/non-player-character.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Obscure Good.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 33,
+      "exportedPath": "srd/appendix/glossary/obscure-good.html",
+      "dependencies": []
+    },
+    "SRD/Appendix/Glossary/Obscure Wealth Skill.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 0,
+      "exportedPath": "srd/appendix/glossary/obscure-wealth-skill.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Opening Credits.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 516,
       "exportedPath": "srd/appendix/glossary/opening-credits.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Organic Language.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 484,
       "exportedPath": "srd/appendix/glossary/organic-language.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Passive.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 295,
       "exportedPath": "srd/appendix/glossary/passive.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Penalty.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 278,
       "exportedPath": "srd/appendix/glossary/penalty.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Perception Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 399,
       "exportedPath": "srd/appendix/glossary/perception-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Performance Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1282,
       "exportedPath": "srd/appendix/glossary/performance-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Perk.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1436,
       "exportedPath": "srd/appendix/glossary/perk.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Persistent Condition.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 267,
       "exportedPath": "srd/appendix/glossary/persistent-condition.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Persuasion.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 217,
       "exportedPath": "srd/appendix/glossary/persuasion.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Player.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 561,
       "exportedPath": "srd/appendix/glossary/player.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Player Character.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 351,
       "exportedPath": "srd/appendix/glossary/player-character.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Point Bank.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 357,
       "exportedPath": "srd/appendix/glossary/point-bank.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Prepare.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 393,
       "exportedPath": "srd/appendix/glossary/prepare.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Prestige Upgrade.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 252,
       "exportedPath": "srd/appendix/glossary/prestige-upgrade.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Primary Archetype.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 159,
       "exportedPath": "srd/appendix/glossary/primary-archetype.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Primordial Language.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 664,
       "exportedPath": "srd/appendix/glossary/primordial-language.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Prone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 59,
       "exportedPath": "srd/appendix/glossary/prone.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Reaction.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 569,
       "exportedPath": "srd/appendix/glossary/reaction.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Reaction Trigger.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 471,
       "exportedPath": "srd/appendix/glossary/reaction-trigger.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Recon Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 25,
       "exportedPath": "srd/appendix/glossary/recon-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Recovery.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 75,
       "exportedPath": "srd/appendix/glossary/recovery.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Requirement.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 916,
       "exportedPath": "srd/appendix/glossary/requirement.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Resistance.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 706,
       "exportedPath": "srd/appendix/glossary/resistance.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Rogue Archetype.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 26,
       "exportedPath": "srd/appendix/glossary/rogue-archetype.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Rogue Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 26,
       "exportedPath": "srd/appendix/glossary/rogue-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Round.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 465,
       "exportedPath": "srd/appendix/glossary/round.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Rumor Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 672,
       "exportedPath": "srd/appendix/glossary/rumor-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Save.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 144,
       "exportedPath": "srd/appendix/glossary/save.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Score.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 759,
       "exportedPath": "srd/appendix/glossary/score.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Score Range.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 883,
       "exportedPath": "srd/appendix/glossary/score-range.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Secondary Archetype.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 161,
       "exportedPath": "srd/appendix/glossary/secondary-archetype.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Secondary Objective.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 227,
       "exportedPath": "srd/appendix/glossary/secondary-objective.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Sensing Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 27,
       "exportedPath": "srd/appendix/glossary/sensing-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Setup Phase.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 315,
       "exportedPath": "srd/appendix/glossary/setup-phase.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Shape.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 509,
       "exportedPath": "srd/appendix/glossary/shape.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Shape Origin.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 387,
+      "exportedPath": "srd/appendix/glossary/shape-origin.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Shield.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 748,
       "exportedPath": "srd/appendix/glossary/shield.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Sincerity Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 446,
       "exportedPath": "srd/appendix/glossary/sincerity-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Size.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1431,
       "exportedPath": "srd/appendix/glossary/size.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 621,
       "exportedPath": "srd/appendix/glossary/skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Sleight Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 27,
       "exportedPath": "srd/appendix/glossary/sleight-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Slow Action.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1549,
       "exportedPath": "srd/appendix/glossary/slow-action.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Sneaking Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 28,
       "exportedPath": "srd/appendix/glossary/sneaking-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Sneaky.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 58,
       "exportedPath": "srd/appendix/glossary/sneaky.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Social Ability.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 298,
       "exportedPath": "srd/appendix/glossary/social-ability.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Social Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 727,
       "exportedPath": "srd/appendix/glossary/social-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Social Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 572,
       "exportedPath": "srd/appendix/glossary/social-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Spell Ability.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 208,
       "exportedPath": "srd/appendix/glossary/spell-ability.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Sphere Shape.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 289,
+      "exportedPath": "srd/appendix/glossary/sphere-shape.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Stack.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 125,
       "exportedPath": "srd/appendix/glossary/stack.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 675,
       "exportedPath": "srd/appendix/glossary/stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Status Condition.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 283,
       "exportedPath": "srd/appendix/glossary/status-condition.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Straining.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 304,
       "exportedPath": "srd/appendix/glossary/straining.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/Subclass.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 332,
+      "exportedPath": "srd/appendix/glossary/subclass.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Tabletop Roleplaying Game.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 284,
       "exportedPath": "srd/appendix/glossary/tabletop-roleplaying-game.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Tertiary Archetype.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 294,
       "exportedPath": "srd/appendix/glossary/tertiary-archetype.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Test.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 901,
       "exportedPath": "srd/appendix/glossary/test.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Theater of the Mind.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 293,
       "exportedPath": "srd/appendix/glossary/theater-of-the-mind.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Tinkering Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 464,
       "exportedPath": "srd/appendix/glossary/tinkering-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Trait Ability.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 355,
       "exportedPath": "srd/appendix/glossary/trait-ability.html",
       "dependencies": []
     },
+    "SRD/Appendix/Glossary/True Shape.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 179,
+      "exportedPath": "srd/appendix/glossary/true-shape.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Glossary/Tuning Stat.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 26,
       "exportedPath": "srd/appendix/glossary/tuning-stat.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Turn.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 709,
       "exportedPath": "srd/appendix/glossary/turn.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Turn Order.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 396,
       "exportedPath": "srd/appendix/glossary/turn-order.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Upgrade.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 608,
       "exportedPath": "srd/appendix/glossary/upgrade.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Variant.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 446,
       "exportedPath": "srd/appendix/glossary/variant.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Vitality.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 681,
       "exportedPath": "srd/appendix/glossary/vitality.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Weakness.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 731,
       "exportedPath": "srd/appendix/glossary/weakness.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Wealth Category.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 44,
       "exportedPath": "srd/appendix/glossary/wealth-category.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Wealth Skill.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 73,
       "exportedPath": "srd/appendix/glossary/wealth-skill.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Wound.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 932,
       "exportedPath": "srd/appendix/glossary/wound.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary/Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 613,
       "exportedPath": "srd/appendix/glossary/zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Fine Items/Wand of Teleportation.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1463,
       "exportedPath": "srd/appendix/items/fine-items/wand-of-teleportation.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/Alcohol.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1929,
       "exportedPath": "srd/appendix/items/general-items/alcohol.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/Crowbar.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 481,
       "exportedPath": "srd/appendix/items/general-items/crowbar.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/Disguise.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 899,
       "exportedPath": "srd/appendix/items/general-items/disguise.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/First Aid Kit.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1161,
       "exportedPath": "srd/appendix/items/general-items/first-aid-kit.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/Melee Weapon.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1745,
       "exportedPath": "srd/appendix/items/general-items/melee-weapon.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/Ranged Weapon.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1735,
       "exportedPath": "srd/appendix/items/general-items/ranged-weapon.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/Repair Kit.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1224,
       "exportedPath": "srd/appendix/items/general-items/repair-kit.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items/Restraining Kit.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1104,
       "exportedPath": "srd/appendix/items/general-items/restraining-kit.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Grey Items/Lockpick.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1037,
       "exportedPath": "srd/appendix/items/grey-items/lockpick.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Grey Items/Poison.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2503,
       "exportedPath": "srd/appendix/items/grey-items/poison.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items/Book.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1333,
       "exportedPath": "srd/appendix/items/obscure-items/book.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items/Cosmic Seed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2768,
       "exportedPath": "srd/appendix/items/obscure-items/cosmic-seed.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items/Hag Stone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 444,
       "exportedPath": "srd/appendix/items/obscure-items/hag-stone.html",
       "dependencies": []
     },
+    "SRD/Appendix/Items/Obscure Items/Holy Water.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 1489,
+      "exportedPath": "srd/appendix/items/obscure-items/holy-water.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Items/Obscure Items/Mana Potion.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 368,
       "exportedPath": "srd/appendix/items/obscure-items/mana-potion.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items/Resurrection Stone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 925,
       "exportedPath": "srd/appendix/items/obscure-items/resurrection-stone.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items/Spell Scroll.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1585,
       "exportedPath": "srd/appendix/items/obscure-items/spell-scroll.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items/Spellblinding Incense.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1004,
       "exportedPath": "srd/appendix/items/obscure-items/spellblinding-incense.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Special Items/Special Item List.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 30652,
       "exportedPath": "srd/appendix/items/special-items/special-item-list.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Fine Items.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 210,
       "exportedPath": "srd/appendix/items/fine-items.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/General Items.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 213,
       "exportedPath": "srd/appendix/items/general-items.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Grey Items.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 210,
       "exportedPath": "srd/appendix/items/grey-items.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Obscure Items.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 213,
       "exportedPath": "srd/appendix/items/obscure-items.html",
       "dependencies": []
     },
     "SRD/Appendix/Items/Special Items.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 484,
       "exportedPath": "srd/appendix/items/special-items.html",
       "dependencies": []
     },
     "SRD/Appendix/Languages/Common Tongue.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 164,
       "exportedPath": "srd/appendix/languages/common-tongue.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Burrow.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 145,
       "exportedPath": "srd/appendix/movement-ranges/burrow.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Climb.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 219,
       "exportedPath": "srd/appendix/movement-ranges/climb.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Crawl.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 104,
       "exportedPath": "srd/appendix/movement-ranges/crawl.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Fly.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 284,
       "exportedPath": "srd/appendix/movement-ranges/fly.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Ghostwalk.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 351,
       "exportedPath": "srd/appendix/movement-ranges/ghostwalk.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Glide.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 480,
       "exportedPath": "srd/appendix/movement-ranges/glide.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Jump.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 394,
       "exportedPath": "srd/appendix/movement-ranges/jump.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Levitate.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 253,
       "exportedPath": "srd/appendix/movement-ranges/levitate.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Swim.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 591,
       "exportedPath": "srd/appendix/movement-ranges/swim.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Teleport.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 204,
       "exportedPath": "srd/appendix/movement-ranges/teleport.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges/Walk.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 139,
       "exportedPath": "srd/appendix/movement-ranges/walk.html",
       "dependencies": []
     },
+    "SRD/Appendix/Senses/Ethervision.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 221,
+      "exportedPath": "srd/appendix/senses/ethervision.html",
+      "dependencies": []
+    },
     "SRD/Appendix/Senses/Nightvision.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 69,
       "exportedPath": "srd/appendix/senses/nightvision.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags/Construct.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 21,
       "exportedPath": "srd/appendix/tags/creature-tags/construct.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags/Fey.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 21,
       "exportedPath": "srd/appendix/tags/creature-tags/fey.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags/Holy.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 21,
       "exportedPath": "srd/appendix/tags/creature-tags/holy.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags/Shapeshifter.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 21,
       "exportedPath": "srd/appendix/tags/creature-tags/shapeshifter.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags/Summon.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 180,
       "exportedPath": "srd/appendix/tags/creature-tags/summon.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags/Undead.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 21,
       "exportedPath": "srd/appendix/tags/creature-tags/undead.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags/Unholy.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 21,
       "exportedPath": "srd/appendix/tags/creature-tags/unholy.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Item Tags/Consumed.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 115,
       "exportedPath": "srd/appendix/tags/item-tags/consumed.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Item Tags/Jealous.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1790,
       "exportedPath": "srd/appendix/tags/item-tags/jealous.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Item Tags/Silvered.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 274,
       "exportedPath": "srd/appendix/tags/item-tags/silvered.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Item Tags/Wield.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 454,
       "exportedPath": "srd/appendix/tags/item-tags/wield.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Creature Tags.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 143,
       "exportedPath": "srd/appendix/tags/creature-tags.html",
       "dependencies": []
     },
     "SRD/Appendix/Tags/Item Tags.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 139,
       "exportedPath": "srd/appendix/tags/item-tags.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Acid Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 436,
       "exportedPath": "srd/appendix/zone-list/acid-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Airless Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1296,
       "exportedPath": "srd/appendix/zone-list/airless-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Blinding Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 303,
       "exportedPath": "srd/appendix/zone-list/blinding-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Charm Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 363,
       "exportedPath": "srd/appendix/zone-list/charm-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Dark Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 822,
       "exportedPath": "srd/appendix/zone-list/dark-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Daylight Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 258,
       "exportedPath": "srd/appendix/zone-list/daylight-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Deafening Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 314,
       "exportedPath": "srd/appendix/zone-list/deafening-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Electrified Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 335,
       "exportedPath": "srd/appendix/zone-list/electrified-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Fire Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 914,
       "exportedPath": "srd/appendix/zone-list/fire-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Fog Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 899,
       "exportedPath": "srd/appendix/zone-list/fog-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Fright Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 356,
       "exportedPath": "srd/appendix/zone-list/fright-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Holy Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 64,
       "exportedPath": "srd/appendix/zone-list/holy-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Loud Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 797,
       "exportedPath": "srd/appendix/zone-list/loud-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Silence Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 396,
       "exportedPath": "srd/appendix/zone-list/silence-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Slow Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 311,
       "exportedPath": "srd/appendix/zone-list/slow-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Toxic Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1057,
       "exportedPath": "srd/appendix/zone-list/toxic-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Unholy Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 64,
       "exportedPath": "srd/appendix/zone-list/unholy-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Untether Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1732,
       "exportedPath": "srd/appendix/zone-list/untether-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List/Wind Zone.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1201,
       "exportedPath": "srd/appendix/zone-list/wind-zone.html",
       "dependencies": []
     },
     "SRD/Appendix/Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1843,
       "exportedPath": "srd/appendix/abilities.html",
       "dependencies": []
     },
     "SRD/Appendix/Classes.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 137,
       "exportedPath": "srd/appendix/classes.html",
       "dependencies": []
     },
     "SRD/Appendix/Conditions.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 984,
       "exportedPath": "srd/appendix/conditions.html",
       "dependencies": []
     },
     "SRD/Appendix/Constitutions.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 146,
       "exportedPath": "srd/appendix/constitutions.html",
       "dependencies": []
     },
     "SRD/Appendix/Creatures.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 141,
       "exportedPath": "srd/appendix/creatures.html",
       "dependencies": []
     },
     "SRD/Appendix/Glossary.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 124,
       "exportedPath": "srd/appendix/glossary.html",
       "dependencies": []
     },
     "SRD/Appendix/Items.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 294,
       "exportedPath": "srd/appendix/items.html",
       "dependencies": []
     },
     "SRD/Appendix/Languages.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 139,
       "exportedPath": "srd/appendix/languages.html",
       "dependencies": []
     },
     "SRD/Appendix/Movement Ranges.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 406,
       "exportedPath": "srd/appendix/movement-ranges.html",
       "dependencies": []
     },
     "SRD/Appendix/Perk List.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 6869,
       "exportedPath": "srd/appendix/perk-list.html",
       "dependencies": []
     },
     "SRD/Appendix/Senses.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 105,
       "exportedPath": "srd/appendix/senses.html",
       "dependencies": []
     },
     "SRD/Appendix/Zone List.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 701,
       "exportedPath": "srd/appendix/zone-list.html",
       "dependencies": []
     },
+    "SRD/Introduction/00 Attribution.md": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 353,
+      "exportedPath": "srd/introduction/00-attribution.html",
+      "dependencies": []
+    },
     "SRD/Introduction/01 Save Time Reading.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2870,
       "exportedPath": "srd/introduction/01-save-time-reading.html",
       "dependencies": []
     },
     "SRD/Introduction/02 Why Play Kleptonomicon.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 9131,
       "exportedPath": "srd/introduction/02-why-play-kleptonomicon.html",
       "dependencies": []
     },
     "SRD/Introduction/03 Guidelines of Fun.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 5328,
       "exportedPath": "srd/introduction/03-guidelines-of-fun.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/01 The Basics.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 4581,
       "exportedPath": "srd/part-1-core-mechanics/01-the-basics.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/02 Dice Mechanics.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 15590,
       "exportedPath": "srd/part-1-core-mechanics/02-dice-mechanics.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/03 The Story Rule.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2075,
       "exportedPath": "srd/part-1-core-mechanics/03-the-story-rule.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/04 Phases of Play.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 23847,
       "exportedPath": "srd/part-1-core-mechanics/04-phases-of-play.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/05 Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 29412,
       "exportedPath": "srd/part-1-core-mechanics/05-abilities.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/06 Covert Operations.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 19466,
       "exportedPath": "srd/part-1-core-mechanics/06-covert-operations.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/07 Basic Abilities.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 68,
       "exportedPath": "srd/part-1-core-mechanics/07-basic-abilities.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics/08 Damage.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 9206,
       "exportedPath": "srd/part-1-core-mechanics/08-damage.html",
       "dependencies": [
@@ -3724,13 +3887,13 @@
       ]
     },
     "SRD/Part 1 Core Mechanics/09 Episodes.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2424,
       "exportedPath": "srd/part-1-core-mechanics/09-episodes.html",
       "dependencies": []
     },
     "SRD/Part 2 Character Sheet/00 Character Sheet.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1817,
       "exportedPath": "srd/part-2-character-sheet/00-character-sheet.html",
       "dependencies": [
@@ -3740,7 +3903,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/01 Social Box.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 17165,
       "exportedPath": "srd/part-2-character-sheet/01-social-box.html",
       "dependencies": [
@@ -3748,7 +3911,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/02 Exploration Box.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 16020,
       "exportedPath": "srd/part-2-character-sheet/02-exploration-box.html",
       "dependencies": [
@@ -3756,7 +3919,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/03 Inventory Box.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 14168,
       "exportedPath": "srd/part-2-character-sheet/03-inventory-box.html",
       "dependencies": [
@@ -3764,7 +3927,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/04 Status Box.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 6995,
       "exportedPath": "srd/part-2-character-sheet/04-status-box.html",
       "dependencies": [
@@ -3772,7 +3935,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/05 Status Conditions and Saving Throws.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 7523,
       "exportedPath": "srd/part-2-character-sheet/05-status-conditions-and-saving-throws.html",
       "dependencies": [
@@ -3780,7 +3943,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/06 Luck Box.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1184,
       "exportedPath": "srd/part-2-character-sheet/06-luck-box.html",
       "dependencies": [
@@ -3788,7 +3951,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/07 Abilities Page.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 5542,
       "exportedPath": "srd/part-2-character-sheet/07-abilities-page.html",
       "dependencies": [
@@ -3800,7 +3963,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/07 Name Box.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1049,
       "exportedPath": "srd/part-2-character-sheet/07-name-box.html",
       "dependencies": [
@@ -3808,7 +3971,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/08 Tracker Boxes.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 9077,
       "exportedPath": "srd/part-2-character-sheet/08-tracker-boxes.html",
       "dependencies": [
@@ -3820,7 +3983,7 @@
       ]
     },
     "SRD/Part 2 Character Sheet/09 Constitution and Class Boxes.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 2840,
       "exportedPath": "srd/part-2-character-sheet/09-constitution-and-class-boxes.html",
       "dependencies": [
@@ -3829,513 +3992,315 @@
       ]
     },
     "SRD/Appendix.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1010,
       "exportedPath": "srd/appendix.html",
       "dependencies": []
     },
     "SRD/Introduction.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 106,
       "exportedPath": "srd/introduction.html",
       "dependencies": []
     },
     "SRD/Part 1 Core Mechanics.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 106,
       "exportedPath": "srd/part-1-core-mechanics.html",
       "dependencies": []
     },
     "SRD/Part 2 Character Sheet.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 106,
       "exportedPath": "srd/part-2-character-sheet.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 226,
       "exportedPath": "index.html",
       "dependencies": []
     },
+    "style.css": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 2729,
+      "exportedPath": "style.css",
+      "dependencies": []
+    },
     "lib/media/ref-falling.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 98498,
       "exportedPath": "lib/media/ref-falling.png",
       "dependencies": []
     },
     "lib/media/klepto_p1_overview.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 128064,
       "exportedPath": "lib/media/klepto_p1_overview.pdf",
       "dependencies": []
     },
     "lib/media/klepto_p2_abilities.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 33287,
       "exportedPath": "lib/media/klepto_p2_abilities.pdf",
       "dependencies": []
     },
     "lib/media/klepto_p3_builder.pdf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 73818,
       "exportedPath": "lib/media/klepto_p3_builder.pdf",
       "dependencies": []
     },
     "lib/media/p1-socialbox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 52994,
       "exportedPath": "lib/media/p1-socialbox.png",
       "dependencies": []
     },
     "lib/media/p1-explorationbox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 97738,
       "exportedPath": "lib/media/p1-explorationbox.png",
       "dependencies": []
     },
     "lib/media/p1-inventorybox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 57826,
       "exportedPath": "lib/media/p1-inventorybox.png",
       "dependencies": []
     },
     "lib/media/p1-statusbox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 68880,
       "exportedPath": "lib/media/p1-statusbox.png",
       "dependencies": []
     },
     "lib/media/p1-conditionsbox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 399026,
       "exportedPath": "lib/media/p1-conditionsbox.png",
       "dependencies": []
     },
     "lib/media/p1-luckbox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 37474,
       "exportedPath": "lib/media/p1-luckbox.png",
       "dependencies": []
     },
     "lib/media/p2-meleedamagebox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 11648,
       "exportedPath": "lib/media/p2-meleedamagebox.png",
       "dependencies": []
     },
     "lib/media/p2-rangeddamagebox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 14828,
       "exportedPath": "lib/media/p2-rangeddamagebox.png",
       "dependencies": []
     },
     "lib/media/p2-primarybox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 16253,
       "exportedPath": "lib/media/p2-primarybox.png",
       "dependencies": []
     },
     "lib/media/p2-secondarybox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 18745,
       "exportedPath": "lib/media/p2-secondarybox.png",
       "dependencies": []
     },
     "lib/media/p2-tertiarybox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 15051,
       "exportedPath": "lib/media/p2-tertiarybox.png",
       "dependencies": []
     },
     "lib/media/p1-name.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 9860,
       "exportedPath": "lib/media/p1-name.png",
       "dependencies": []
     },
     "lib/media/p3-experiencetracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 26138,
       "exportedPath": "lib/media/p3-experiencetracker.png",
       "dependencies": []
     },
     "lib/media/p3-leveltracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 220714,
       "exportedPath": "lib/media/p3-leveltracker.png",
       "dependencies": []
     },
     "lib/media/p3-fightertracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 99779,
       "exportedPath": "lib/media/p3-fightertracker.png",
       "dependencies": []
     },
     "lib/media/p3-roguetracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 114629,
       "exportedPath": "lib/media/p3-roguetracker.png",
       "dependencies": []
     },
     "lib/media/p3-magetracker.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 118114,
       "exportedPath": "lib/media/p3-magetracker.png",
       "dependencies": []
     },
     "lib/media/p3-constitutionbox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 20754,
       "exportedPath": "lib/media/p3-constitutionbox.png",
       "dependencies": []
     },
     "lib/media/p3-classbox.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 18570,
       "exportedPath": "lib/media/p3-classbox.png",
       "dependencies": []
     },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1750226079111,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 503360,
+      "modifiedTime": 1750391904238,
+      "sourceSize": 503696,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1750226079111,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1750226079111,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1750226079111,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1750226079111,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1750226079111,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1750226079111,
-      "sourceSize": 68828,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1750391904238,
+      "sourceSize": 2013,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 388,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1750311985236,
+      "modifiedTime": 1750391904238,
       "sourceSize": 11718,
       "exportedPath": "lib/styles/snippets.css",
-      "dependencies": []
-    },
-    "SRD/Appendix/Abilities/Spell Abilities/Augmentation.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 3089,
-      "exportedPath": "srd/appendix/abilities/spell-abilities/augmentation.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Abilities/Spell Abilities/Bless.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 1720,
-      "exportedPath": "srd/appendix/abilities/spell-abilities/bless.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Abilities/Spell Abilities/Tutelage.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 2105,
-      "exportedPath": "srd/appendix/abilities/spell-abilities/tutelage.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Cone Shape.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 383,
-      "exportedPath": "srd/appendix/glossary/cone-shape.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Cube Shape.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 388,
-      "exportedPath": "srd/appendix/glossary/cube-shape.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Cylinder Shape.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 607,
-      "exportedPath": "srd/appendix/glossary/cylinder-shape.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Line Shape.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 255,
-      "exportedPath": "srd/appendix/glossary/line-shape.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Lineage.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 304,
-      "exportedPath": "srd/appendix/glossary/lineage.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Shape Origin.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 387,
-      "exportedPath": "srd/appendix/glossary/shape-origin.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Sphere Shape.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 289,
-      "exportedPath": "srd/appendix/glossary/sphere-shape.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Subclass.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 332,
-      "exportedPath": "srd/appendix/glossary/subclass.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/True Shape.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 179,
-      "exportedPath": "srd/appendix/glossary/true-shape.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Items/Obscure Items/Holy Water.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 1489,
-      "exportedPath": "srd/appendix/items/obscure-items/holy-water.html",
-      "dependencies": []
-    },
-    "SRD/Introduction/00 Attribution.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 353,
-      "exportedPath": "srd/introduction/00-attribution.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Abilities/Spell Abilities/Glyphic Console.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 1319,
-      "exportedPath": "srd/appendix/abilities/spell-abilities/glyphic-console.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Abilities/Spell Abilities/Sending.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 1754,
-      "exportedPath": "srd/appendix/abilities/spell-abilities/sending.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Conditions/Invisible.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 337,
-      "exportedPath": "srd/appendix/conditions/invisible.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Archetype Stat.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 37,
-      "exportedPath": "srd/appendix/glossary/archetype-stat.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Fine Good.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 30,
-      "exportedPath": "srd/appendix/glossary/fine-good.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Fine Wealth Skill.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 0,
-      "exportedPath": "srd/appendix/glossary/fine-wealth-skill.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/General Good.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 33,
-      "exportedPath": "srd/appendix/glossary/general-good.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/General Wealth Skill.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 0,
-      "exportedPath": "srd/appendix/glossary/general-wealth-skill.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Grey Good.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 30,
-      "exportedPath": "srd/appendix/glossary/grey-good.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Grey Wealth Skill.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 0,
-      "exportedPath": "srd/appendix/glossary/grey-wealth-skill.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Obscure Good.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 33,
-      "exportedPath": "srd/appendix/glossary/obscure-good.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Glossary/Obscure Wealth Skill.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 0,
-      "exportedPath": "srd/appendix/glossary/obscure-wealth-skill.html",
-      "dependencies": []
-    },
-    "SRD/Appendix/Senses/Ethervision.md": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 221,
-      "exportedPath": "srd/appendix/senses/ethervision.html",
-      "dependencies": []
-    },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1750311985236,
-      "sourceSize": 2104,
-      "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     }
   }
